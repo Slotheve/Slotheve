@@ -7,4 +7,3 @@
     </a>
 </p>
 
-![](https://raw.githubusercontent.com/Slotheve/Slotheve/output/github-snake.svg)
